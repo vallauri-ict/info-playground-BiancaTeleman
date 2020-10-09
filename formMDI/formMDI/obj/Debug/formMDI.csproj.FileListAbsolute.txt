@@ -1,0 +1,10 @@
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\bin\Debug\formMDI.exe.config
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\bin\Debug\formMDI.exe
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\bin\Debug\formMDI.pdb
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.csprojAssemblyReference.cache
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.Form1.resources
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.Properties.Resources.resources
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.csproj.GenerateResource.cache
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.exe
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.pdb
+C:\Users\b.teleman.1387\Desktop\esDidattici\formMDI\formMDI\obj\Debug\formMDI.modalEsci.resources
