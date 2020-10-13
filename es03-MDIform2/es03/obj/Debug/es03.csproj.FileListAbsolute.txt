@@ -1,0 +1,12 @@
+E:\Classe Quarta\info\oggetti\es03\es03\bin\Debug\es03.exe.config
+E:\Classe Quarta\info\oggetti\es03\es03\bin\Debug\es03.exe
+E:\Classe Quarta\info\oggetti\es03\es03\bin\Debug\es03.pdb
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.csprojAssemblyReference.cache
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.Form1.resources
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.FormEsci.resources
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.FormFiglia1.resources
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.Properties.Resources.resources
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.csproj.GenerateResource.cache
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.csproj.CoreCompileInputs.cache
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.exe
+E:\Classe Quarta\info\oggetti\es03\es03\obj\Debug\es03.pdb
