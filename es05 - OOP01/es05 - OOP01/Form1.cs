@@ -35,6 +35,27 @@ namespace es05___OOP01
             r = new rectangle(Convert.ToInt32(txtBase.Text), Convert.ToInt32(txtAltezza.Text));
             MessageBox.Show(r.getSide());
             MessageBox.Show(r.getSide());
+
+            r = new rectangle();
+            r.colore = Color.White;
+            MessageBox.Show(r.getSide());
+        }
+
+        private void btnVisualizzaNfattura_Click(object sender, EventArgs e)
+        {
+            fatture.visualizza();
+        }
+
+        private void btnCreaFattura_Click(object sender, EventArgs e)
+        {
+            fatture f = new fatture();
+            MessageBox.Show("Fattura creata!");
+            //f.visualizza();
+        }
+
+        private void btnClasseStatica_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Pigreco: "+miaMath.pi+"n3*4= "+miaMath.prodotto(3,4));
         }
     }
 }

@@ -13,11 +13,15 @@ namespace es05___OOP01
         public Color colore;
         private string descrizione;
 
-        public rectangle() //costruttore che viene generato in automatico se noi non scriviamo niente
+        public rectangle(): this(1)//costruttore che viene generato in automatico se noi non scriviamo niente
         {
             //side1 = 1;
             //side2 = 2;
             descrizione="Sono un rettangolo";
+        }
+        public rectangle(int l):this(1,1)
+        {
+
         }
         public rectangle(int baseRettangolo,int altezzaRettangolo)
         {
