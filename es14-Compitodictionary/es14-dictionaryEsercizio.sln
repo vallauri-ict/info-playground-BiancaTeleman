@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es14-dictionaryEsercizio", "es14-dictionaryEsercizio\es14-dictionaryEsercizio.csproj", "{865DB6AB-F787-4A98-B886-DF7479EC2C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865DB6AB-F787-4A98-B886-DF7479EC2C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865DB6AB-F787-4A98-B886-DF7479EC2C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865DB6AB-F787-4A98-B886-DF7479EC2C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865DB6AB-F787-4A98-B886-DF7479EC2C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {378B72C4-5EA4-4BB1-B62F-11F7428D9FD9}
+	EndGlobalSection
+EndGlobal
