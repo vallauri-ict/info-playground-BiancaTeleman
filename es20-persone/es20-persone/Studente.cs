@@ -8,7 +8,7 @@ namespace es20_persone
 {
     class Studente : Persona
     {
-        List<int> voti = new List<int>();
+        
 
         public double media()
         {

@@ -10,7 +10,7 @@ namespace es20_persone
     {
         private string nome, cognome, sesso;
         private int eta;
-
+        List<int> voti = new List<int>();
         public void setAttributes(string nome,string cognome,string sesso,int eta)
         {
             this.nome = nome;

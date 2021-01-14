@@ -37,6 +37,11 @@
             this.txtEta = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.btnInserisci = new System.Windows.Forms.Button();
+            this.btnVisualizza = new System.Windows.Forms.Button();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtVoto = new System.Windows.Forms.TextBox();
+            this.btnVOto = new System.Windows.Forms.Button();
+            this.listStudente = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // label1
@@ -107,17 +112,66 @@
             // 
             this.btnInserisci.Location = new System.Drawing.Point(33, 150);
             this.btnInserisci.Name = "btnInserisci";
-            this.btnInserisci.Size = new System.Drawing.Size(155, 23);
+            this.btnInserisci.Size = new System.Drawing.Size(87, 23);
             this.btnInserisci.TabIndex = 8;
             this.btnInserisci.Text = "INSERISCI";
             this.btnInserisci.UseVisualStyleBackColor = true;
             this.btnInserisci.Click += new System.EventHandler(this.btnInserisci_Click);
             // 
+            // btnVisualizza
+            // 
+            this.btnVisualizza.Location = new System.Drawing.Point(126, 150);
+            this.btnVisualizza.Name = "btnVisualizza";
+            this.btnVisualizza.Size = new System.Drawing.Size(75, 23);
+            this.btnVisualizza.TabIndex = 9;
+            this.btnVisualizza.Text = "Visualizza";
+            this.btnVisualizza.UseVisualStyleBackColor = true;
+            this.btnVisualizza.Click += new System.EventHandler(this.btnVisualizza_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(18, 302);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(29, 13);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "Voto";
+            // 
+            // txtVoto
+            // 
+            this.txtVoto.Location = new System.Drawing.Point(53, 299);
+            this.txtVoto.Name = "txtVoto";
+            this.txtVoto.Size = new System.Drawing.Size(100, 20);
+            this.txtVoto.TabIndex = 12;
+            // 
+            // btnVOto
+            // 
+            this.btnVOto.Location = new System.Drawing.Point(66, 256);
+            this.btnVOto.Name = "btnVOto";
+            this.btnVOto.Size = new System.Drawing.Size(75, 23);
+            this.btnVOto.TabIndex = 13;
+            this.btnVOto.Text = "Inserisci voto";
+            this.btnVOto.UseVisualStyleBackColor = true;
+            // 
+            // listStudente
+            // 
+            this.listStudente.FormattingEnabled = true;
+            this.listStudente.Location = new System.Drawing.Point(345, 12);
+            this.listStudente.Name = "listStudente";
+            this.listStudente.Size = new System.Drawing.Size(274, 329);
+            this.listStudente.TabIndex = 14;
+            this.listStudente.SelectedIndexChanged += new System.EventHandler(this.listStudente_SelectedIndexChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(242, 185);
+            this.ClientSize = new System.Drawing.Size(642, 354);
+            this.Controls.Add(this.listStudente);
+            this.Controls.Add(this.btnVOto);
+            this.Controls.Add(this.txtVoto);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.btnVisualizza);
             this.Controls.Add(this.btnInserisci);
             this.Controls.Add(this.txtEta);
             this.Controls.Add(this.label4);
@@ -145,6 +199,11 @@
         private System.Windows.Forms.TextBox txtEta;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button btnInserisci;
+        private System.Windows.Forms.Button btnVisualizza;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtVoto;
+        private System.Windows.Forms.Button btnVOto;
+        private System.Windows.Forms.ListBox listStudente;
     }
 }
 

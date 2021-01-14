@@ -16,11 +16,30 @@ namespace es20_persone
         {
             InitializeComponent();
         }
-
+        List<Studente> lstStudenti = new List<Studente>();
         private void btnInserisci_Click(object sender, EventArgs e)
         {
-            Persona p = new Persona();
-            p.setAttributes(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
+            Studente s = new Studente();
+            s.setAttributes(txtNome.Text, txtCognome.Text, txtSesso.Text, Convert.ToInt32(txtEta.Text));
+            lstStudenti.Add(s);
+            listStudente.Items.Add(s.getCognome());
+        }
+
+        private void listStudente_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            string cognome = listStudente.SelectedItems[0].Text;
+            foreach (var item in lstStudenti)
+            {
+                if(item.getCognome()==cognome)
+                {
+                    item.voti.Add(Convert.ToInt32(txtVoto.Text));
+                }
+            }
+        }
+
+        private void btnVisualizza_Click(object sender, EventArgs e)
+        {
+            foreach
         }
     }
 }
