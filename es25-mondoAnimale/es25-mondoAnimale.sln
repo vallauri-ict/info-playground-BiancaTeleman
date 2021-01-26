@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "es25-mondoAnimale", "es25-mondoAnimale\es25-mondoAnimale.csproj", "{8BC6E439-02E9-41C4-AE05-C25A3E6C8ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC6E439-02E9-41C4-AE05-C25A3E6C8ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC6E439-02E9-41C4-AE05-C25A3E6C8ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC6E439-02E9-41C4-AE05-C25A3E6C8ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC6E439-02E9-41C4-AE05-C25A3E6C8ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CAD13C3-312D-4D60-A98F-05D39CED6A92}
+	EndGlobalSection
+EndGlobal

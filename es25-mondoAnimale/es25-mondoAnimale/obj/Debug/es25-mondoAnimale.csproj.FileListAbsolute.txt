@@ -1,0 +1,10 @@
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\bin\Debug\es25-mondoAnimale.exe.config
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\bin\Debug\es25-mondoAnimale.exe
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\bin\Debug\es25-mondoAnimale.pdb
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25-mondoAnimale.csprojAssemblyReference.cache
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25_mondoAnimale.Form1.resources
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25_mondoAnimale.Properties.Resources.resources
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25-mondoAnimale.csproj.GenerateResource.cache
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25-mondoAnimale.csproj.CoreCompileInputs.cache
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25-mondoAnimale.exe
+E:\Classe Quarta\info\oggetti\es25-mondoAnimale\es25-mondoAnimale\obj\Debug\es25-mondoAnimale.pdb
